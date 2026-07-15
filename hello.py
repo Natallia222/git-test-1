@@ -1,0 +1,5 @@
+print("Hello, GitLab!")
+print("Первый тестовый файл")
+print("Эта строка добавлена через GitLab")
+print("Посылка на GitLab обратно, через Push")
+print("Посылка обратно на PyCharm, через Pull")
